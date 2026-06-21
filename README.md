@@ -298,16 +298,6 @@ C:\Program Files\GTA VI\
 **SHA-256:** `d44b560fab8a93f251cf85afa2b1a911046e0a35b673c77fef60dae3d8119e71`  
 **Detection Rate:** `5/68` (7.3%)
 
-### Analysis of Detections
-
-| Antivirus | Detection Name | Explanation |
-|-----------|---------------|-------------|
-| **AegisLab** | Trojan.Win32.Generic.4!c | Heuristic detection of suspicious behavior |
-| **Avast** | Win32:TrojanX-gen | Generic Trojan detection |
-| **AVG** | Win32:TrojanX-gen | Generic Trojan detection |
-| **McAfee** | Artemis!D44B560FAB8A | Behavioral detection |
-| **TrendMicro** | TROJ_GEN.R002H0RGT24 | Generic Trojan detection |
-
 ### Why This Happens
 
 5 antivirus engines flagged this file because:
