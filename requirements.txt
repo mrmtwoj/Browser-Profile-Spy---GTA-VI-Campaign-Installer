@@ -1,0 +1,15 @@
+# GTA VI Browser Profile Server
+# 
+# Development dependencies (optional)
+# These are NOT required to run the server
+
+# For testing
+pytest==7.4.0
+pytest-cov==4.1.0
+
+# For code formatting
+black==23.7.0
+flake8==6.0.0
+
+# For type checking
+mypy==1.4.0
