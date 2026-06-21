@@ -1,6 +1,7 @@
 # 🕵️ Browser Profile Spy - GTA VI Campaign Installer
 
 <div align="center">
+<img src="banner.webp" alt="GTA VI Banner" width="100%" /> 
   
 ![GTA VI Banner](https://img.shields.io/badge/GTA%20VI-Installer-blue?style=for-the-badge&logo=rockstar)
 ![Version](https://img.shields.io/badge/version-1.0.0-green?style=for-the-badge)
@@ -12,6 +13,7 @@
 **⚠️ EDUCATIONAL PURPOSE ONLY - For Security Awareness and Defensive Research ⚠️**
 
 </div>
+
 
 ---
 
